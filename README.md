@@ -1,5 +1,5 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
+<H3>Name: KEERTHANA S</H3>
+<H3>Register no: 212222230066</H3>
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
@@ -49,9 +49,9 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-```
-import numpy as np
-import pandas as pd
+```Python
+import numpy as np                                                      Developed By: KEERTHANA S
+import pandas as pd                                                     Register No: 212222230066
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from sklearn.model_selection import train_test_split
@@ -188,7 +188,8 @@ plot_decision_regions(x_test, y_test)'''
 
 # OUTPUT:
 ## data set 
-![pic 1](https://github.com/Lavanyajoyce/Ex-2--NN/assets/119477890/0c5a8577-c836-4811-b592-e7099fa992f6)
+![pic 1 new](https://github.com/Keerthanasampathkumar/Ex-2--NN/assets/119477890/59ab5e41-1c22-4fc5-be5d-202eed57f87b)
+
 
 ## iris data set
 ![pic 2](https://github.com/Lavanyajoyce/Ex-2--NN/assets/119477890/fbf1046e-7b0b-461e-873f-f0042756b916)
