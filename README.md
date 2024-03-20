@@ -1,6 +1,5 @@
-<H3>Name: KEERTHANA S</H3>
-<H3>Register no: 212222230066</H3>
-<H3>Date</H3>
+<H3>Name: YAMESH R</H3>
+<H3>Register no: 212222220059</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
